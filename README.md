@@ -23,6 +23,8 @@ I was in charge of the backend part **(Nodejs, express, socket_io, Neo4j)**
 - Research and filter users
 - Real time chat
 - Real time notification system
+- Geolocation using google API
+- Matching algorithm
 
 
 ## How to use it ?
